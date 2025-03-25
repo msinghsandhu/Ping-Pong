@@ -21,4 +21,5 @@ This is a simple Pong game built using Python's Turtle module. It replicates the
 
 ⬇️ Move Down: Down Arrow
 
-## 🎯 Objective: Keep the ball in play and prevent it from passing your paddle. The player who misses the ball loses a point.
+## 🎯 Objective: 
+Keep the ball in play and prevent it from passing your paddle. The player who misses the ball loses a point.
